@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React frontend - Gerenciamento de imóveis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Essa aplicação foi desenvolvida para ser o frontend de uma empresa que oferta imóveis para locação, consumindo dados de uma API em python(repositório do backend: PythonAPI)
 
 ## Available Scripts
 
